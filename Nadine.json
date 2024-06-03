@@ -1,0 +1,190 @@
+{
+  "name": "Nadine",
+  "version": "",
+  "description": "Nadine from Caramella Girls",
+  "color": "#7C82FF",
+  "authors": [
+    {
+      "name": "Glitch",
+      "id": "628840840160083978"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#171717",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(0, 0, 0, 0.98)"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#4E00D0D9",
+      "#4E00D0D9"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#4E00D0D9",
+      "#4e00D0D9"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#171717",
+      "#EBEBEB"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#171717",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(255, 255, 255, 0.06)",
+      "rgba(0, 0, 0, 0.94)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(197, 180, 227, 1.0)",
+      "rgba(197, 180, 227, 1.0)"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "rgba(0, 0, 0, 0.98)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "rgba(0, 0, 0, 0.96)"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#151619",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#171717",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#212121",
+      "#DECD9A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#171717",
+      "#EAE9E6"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#7C82FF",
+      "#8381FF"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#171717",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#9400D3",
+      "#8381FF"
+    ],
+    "CHANNEL_ICON": [
+      "#7C82FF",
+      "#9F1FD6"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#EAE9E6"
+    ],
+    "HEADER_PRIMARY": [
+      "#7C82FF",
+      "#8381FF"
+    ],
+    "HEADER_SECONDARY": [
+      "#AF98E4",
+      "#8381FF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#7C82FF",
+      "#8381FF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#AF98E4",
+      "#506D1B"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#212121",
+      "#B8B8B8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#7C82FF",
+      "#8381FF"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#DECD9A"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#292929",
+      "#D6D6D6"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "rgba(255, 255, 255, 0.9)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#292929",
+      "rgba(226, 226, 226, 0.7)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "rgba(255, 255, 255, 1)"
+    ],
+    "TEXT_LINK": [
+      "#FF7C7C",
+      "#008383"
+    ],
+    "TEXT_MUTED": [
+      "#AA84FF",
+      "#494949"
+    ],
+    "TEXT_NORMAL": [
+      "#927CFF",
+      "#6D80FF"
+    ],
+    "TEXT_PRIMARY": [
+      "#AA84FF",
+      "#6D80FF"
+    ],
+    "WHITE": [
+      "#927CFF",
+      "#6D80FF"
+    ],
+    "YELLOW": [
+      "#AA84FF",
+      "#557B00"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#4C19A9",
+    "PLUM_20": "#191919",
+    "PLUM_22": "#0F001B",
+    "PRIMARY_100": "#C09EFF",
+    "PRIMARY_200": "#4C19A9",
+    "PRIMARY_300": "#BD97DE",
+    "PRIMARY_360": "#D687FF",
+    "PRIMARY_400": "#482C5C",
+    "PRIMARY_500": "#210931",
+    "PRIMARY_600": "#210931",
+    "PRIMARY_630": "#8A5CDF",
+    "PRIMARY_700": "#332748",
+    "PRIMARY_800": "#332748",
+    "PRIMARY_900": "#3B03A1",
+    "RED_400": "#4C19A9",
+    "YELLOW_260": "#000080F2"
+  },
+  "background": {
+    "alpha": 5,
+    "url": "https://raw.githubusercontent.com/KozacheShapka/myfiles2/1e0c901b036fdae6eac6d80790cf74c0d2b82347/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#151619"
+  }
+}
